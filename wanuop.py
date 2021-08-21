@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# ref: https://github.com/LiuYi0526/IPTV
+
 import re
 
 path="iptv.txt"
@@ -31,6 +33,20 @@ for i in range(len(channel_list_temp1)):
 #print(channel_dict)
 #channel_dict_data=list(channel_dict.keys()).sort(channel_dict.items(),key=lambda arr: (arr[:3],arr[3:]))
 #print(list(channel_dict.keys()))
+
+#--------------------------------------------------------------------------------------------------------
+
+#自定义添加频道
+channel_dict["CCTV5+"] = "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8"
+channel_dict["4K超清-北京IPTV"] = "http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8"
+channel_dict["凤凰中文"] = "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8"
+channel_dict["凤凰资讯"] = "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8"
+channel_dict["凤凰香港"] = "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8"
+channel_dict["CCTV13新闻-HD"] = "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8"
+channel_dict["CCTV11-HD"] = "http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8"
+#--------------------------------------------------------------------------------------------------------
+
+
 list0=list(channel_dict.keys())
 #_nsre = re.compile('([0-9]+)')
 
@@ -50,9 +66,13 @@ for i in range(len(list0)):
         pass
     elif "直播室" in list0[i]:
         pass
+    elif "购物" in list0[i]:
+        pass
+    elif "高清导视频道" in list0[i]:
+        pass
     else:
         list1.append(list0[i])
-print(list1)
+#print(list1)
 
 f=open(path2, 'w',encoding='utf-8')
 m3u_content=[]
@@ -60,6 +80,6 @@ m3u_content.append("#EXTM3U\n")
 for i in list1:
     m3u_content.append("#EXTINF:-1," + i + "\n")
     m3u_content.append(channel_dict[i] + "\n")
-print(m3u_content)
+#print(m3u_content)
 f.writelines(m3u_content)
 f.close()
