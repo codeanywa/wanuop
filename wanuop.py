@@ -37,7 +37,7 @@ for i in range(len(channel_list_temp1)):
 #--------------------------------------------------------------------------------------------------------
 
 #自定义添加频道
-channel_dict["CCTV5+"] = "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8"
+channel_dict["CCTV5+"] = "http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8"
 channel_dict["4K超清-北京IPTV"] = "http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8"
 channel_dict["凤凰中文"] = "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8"
 channel_dict["凤凰资讯"] = "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8"
