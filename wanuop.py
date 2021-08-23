@@ -37,13 +37,14 @@ for i in range(len(channel_list_temp1)):
 #--------------------------------------------------------------------------------------------------------
 
 #自定义添加频道
-channel_dict["CCTV5+"] = "http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8"
+channel_dict["CCTV5+-HD"] = "http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069"
 channel_dict["4K超清-北京IPTV"] = "http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8"
 channel_dict["凤凰中文"] = "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8"
 channel_dict["凤凰资讯"] = "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8"
 channel_dict["凤凰香港"] = "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8"
-channel_dict["CCTV13新闻-HD"] = "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8"
-channel_dict["CCTV11-HD"] = "http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8"
+channel_dict["CCTV13新闻-HD"] = "http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069"
+channel_dict["CCTV11戏剧-HD"] = "http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069"
+channel_dict["CCTV15音乐-HD"] = "http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069"
 #--------------------------------------------------------------------------------------------------------
 
 
