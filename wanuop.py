@@ -6,7 +6,7 @@
 import re
 
 path="iptv.txt"
-path2="wanuop.m3u"
+path2="wanuop_temp.m3u"
 
 f=open(path, 'r',encoding='utf-8')
 content=f.readlines()
@@ -80,9 +80,9 @@ for i in range(len(list0)):
 
 f=open(path2, 'w',encoding='utf-8')
 m3u_content=[]
-m3u_content.append("#EXTM3U\n")
+m3u_content.append("#EXTM3U url-tvg=\"http://epg.51zmt.top:8000/e.xml.gz\"\n")
 for i in list1:
-    m3u_content.append("#EXTINF:-1," + i + "\n")
+    m3u_content.append("#EXTINF:-1 tvg-id=\"\"," + i + "\n")
     m3u_content.append(channel_dict[i] + "\n")
 #print(m3u_content)
 f.writelines(m3u_content)
