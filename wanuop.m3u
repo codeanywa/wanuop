@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-id="",4K超清-北京IPTV
+#EXTINF:-1 tvg-id="106",4K超清-北京IPTV
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="1",CCTV1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
@@ -41,7 +41,7 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=10000000020
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="17",CCTV17HD
 http://117.135.56.6:6060/cms001/ch00000090990000001241/index.m3u8
-#EXTINF:-1 tvg-id="15",CCTV少儿HD
+#EXTINF:-1 tvg-id="15",CCTV14少儿HD
 http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="14",CCTV新闻
 http://117.135.56.6:6060/cms001/ch00000090990000001061/index.m3u8
