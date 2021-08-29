@@ -11,6 +11,8 @@ http://117.135.56.6:6060/cms001/ch00000090990000001186/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 tvg-id="6",CCTV5+-HD1
 http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
+#EXTINF:-1 tvg-id="6",CCTV5+-HD2
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 #EXTINF:-1 tvg-id="6",CCTV5+-HD-咪咕
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="5",CCTV5HD
@@ -127,7 +129,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001235/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001053/index.m3u8
 #EXTINF:-1 tvg-id="57",新疆卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001065/index.m3u8
-#EXTINF:-1 tvg-id="",新闻综合HD
+#EXTINF:-1 tvg-id="1984",新闻综合HD
 http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="",极速汽车HD
 http://117.135.56.6:6060/cms001/ch00000090990000001191/index.m3u8
@@ -197,3 +199,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001246/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001082/index.m3u8
 #EXTINF:-1 tvg-id="46",黑龙江卫视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001031/index.m3u8
+#EXTINF:-1 tvg-id="",点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-id="",日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
