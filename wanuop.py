@@ -37,6 +37,7 @@ for i in range(len(channel_list_temp1)):
 #--------------------------------------------------------------------------------------------------------
 
 #自定义添加频道
+channel_dict["CCTV4K"] = "http://liveop.cctv.cn/hls/4KHD/playlist.m3u8"
 channel_dict["CCTV5+-HD1"] = "http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8"
 channel_dict["CCTV5+-HD-咪咕"] = "http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069"
 channel_dict["CCTV5+-HD2"] = "http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8"
