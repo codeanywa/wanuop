@@ -9,6 +9,10 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
 #EXTINF:-1 tvg-id="ChunXiang4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",纯享4K (2160p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1, 4K超高清电影
+http://60.255.49.202/live/emdy4k_8000.m3u8
+#EXTINF:-1, 5G购
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="106",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="1",CCTV1HD
@@ -297,3 +301,5 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="MiGu4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",咪咕4K [Offline]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
+#EXTINF:-1 tvg-id="", 清华大学电视台
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
