@@ -78,6 +78,8 @@ for i in range(len(list0)):
         pass
     elif "高清导视频道" in list0[i]:
         pass
+    elif "CCTV高网" in list0[i]:
+        pass
     else:
         list1.append(list0[i])
 #print(list1)
