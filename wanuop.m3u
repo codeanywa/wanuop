@@ -3,11 +3,11 @@
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="",4K频道自然风光
 http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
-#EXTINF:-1 tvg-id="Loupe4K.us" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="",Loupe 4K (2160p)
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" ,Loupe 4K (2160p)
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/4KUHD.jpeg" group-title="中国卫视", 南国都市 4K
 https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
-#EXTINF:-1 tvg-id="ChunXiang4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",纯享4K (2160p)
+#EXTINF:-1 tvg-id="ChunXiang4K.cn"  ,纯享4K (2160p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1, 4K超高清电影
 http://60.255.49.202/live/emdy4k_8000.m3u8
@@ -65,7 +65,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001061/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001063/index.m3u8
 #EXTINF:-1 tvg-id="20",CGTN
 http://117.135.56.6:6060/cms001/ch00000090990000001058/index.m3u8
-#EXTINF:-1 tvg-id="CNCZhongWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CNC中文 (720p)
+#EXTINF:-1 tvg-id="CNCZhongWen.cn"  ,CNC中文 (720p)
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="1956",七彩戏剧
 http://117.135.56.6:6060/cms001/ch00000090990000001112/index.m3u8
@@ -217,89 +217,89 @@ http://117.135.56.6:6060/cms001/ch00000090990000001082/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001031/index.m3u8
 #EXTINF:-1 tvg-id="",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-id="NewTVZhongGuoGongFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV中国功夫 (1080p)
+#EXTINF:-1 tvg-id="NewTVZhongGuoGongFu.cn",NewTV中国功夫 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJunShiPingLun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV军事评论 (1080p)
+#EXTINF:-1 tvg-id="NewTVJunShiPingLun.cn",NewTV军事评论 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJunLuJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV军旅剧场 (1080p)
+#EXTINF:-1 tvg-id="NewTVJunLuJuChang.cn",NewTV军旅剧场 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-#EXTINF:-1 tvg-id="NewTVNongYeZhiFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV农业致富 (1080p)
+#EXTINF:-1 tvg-id="NewTVNongYeZhiFu.cn",NewTV农业致富 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-#EXTINF:-1 tvg-id="NewTVDongHuaWangGuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV动画王国 (1080p)
+#EXTINF:-1 tvg-id="NewTVDongHuaWangGuo.cn",NewTV动画王国 (1080p)
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="NewTVGuZhuangJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV古装剧场 (1080p)
+#EXTINF:-1 tvg-id="NewTVGuZhuangJuChang.cn",NewTV古装剧场 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="NewTVWanMeiYouXi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV完美遊戲 (1080p)
+#EXTINF:-1 tvg-id="NewTVWanMeiYouXi.cn",NewTV完美遊戲 (1080p)
 http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJiaTingJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV家庭剧场 (1080p)
+#EXTINF:-1 tvg-id="NewTVJiaTingJuChang.cn",NewTV家庭剧场 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 tvg-id="NewTVYiBanJianKang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV怡伴健康 (1080p)
+#EXTINF:-1 tvg-id="NewTVYiBanJianKang.cn",NewTV怡伴健康 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-#EXTINF:-1 tvg-id="NewTVBoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV搏击 (720p)
+#EXTINF:-1 tvg-id="NewTVBoJi.cn",NewTV搏击 (720p)
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
-#EXTINF:-1 tvg-id="NewTVMingXingDaPian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV明星大片 (1080p)
+#EXTINF:-1 tvg-id="NewTVMingXingDaPian.cn",NewTV明星大片 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-id="NewTVWuBoShiJie.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV武搏世界 (1080p)
+#EXTINF:-1 tvg-id="NewTVWuBoShiJie.cn"  ,NewTV武搏世界 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1 tvg-id="NewTVChaoMaLaPo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV潮妈辣婆 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoMaLaPo.cn"  ,NewTV潮妈辣婆 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-#EXTINF:-1 tvg-id="NewTVXuanWuWeiLai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV炫舞未来 (1080p)
+#EXTINF:-1 tvg-id="NewTVXuanWuWeiLai.cn"  ,NewTV炫舞未来 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="NewTVAiQingXiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV爱情喜剧 (1080p)
+#EXTINF:-1 tvg-id="NewTVAiQingXiJu.cn"  ,NewTV爱情喜剧 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品体育 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinTiYu.cn"  ,NewTV精品体育 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品大剧 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinDaJu.cn"  ,NewTV精品大剧 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品纪录 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinJiLu.cn"  ,NewTV精品纪录 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品電影 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinDianYing.cn"  ,NewTV精品電影 (1080p)
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="NewTVChaoJiTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级体育 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiTiYu.cn"  ,NewTV超级体育 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-id="NewTVChaoJiDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电影 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiDianYing.cn"  ,NewTV超级电影 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-id="NewTVChaoJiDianShiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电视剧 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiDianShiJu.cn"  ,NewTV超级电视剧 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="NewTVChaoJiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级综艺 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiZongYi.cn"  ,NewTV超级综艺 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJinPaiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV金牌综艺 (1080p)
+#EXTINF:-1 tvg-id="NewTVJinPaiZongYi.cn"  ,NewTV金牌综艺 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 tvg-id="",日本NHK华语
+#EXTINF:-1 tvg-id="6113",日本NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="", NHK World FHD
+#EXTINF:-1 tvg-id="331", NHK World FHD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="RiBenQuanTianXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/riben24.png" group-title="",日本全天新聞 (480p)
+#EXTINF:-1 tvg-id="RiBenQuanTianXinWen.cn" tvg-logo="https://parco-zh.github.io/demo/riben24.png" ,日本全天新聞 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now (1080p)
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/eNPIQ9f.png",BBC News (720p) [Not 24/7]
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png", Bloomberg Business(720p)
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg Business TV+ UHD (2160p)
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg Business TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Global", Bloomberg US(720p)
+#EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png", Bloomberg US(720p)
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="6139" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="Global", Channel News Asia
+#EXTINF:-1 tvg-id="6139" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png", Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV UHD (2160p)
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" ,Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEngland.fr" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Lifestyle",Fashion TV (England) (1080p)
+#EXTINF:-1 tvg-id="FashionTVEngland.fr" ,Fashion TV (England) (1080p)
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionBoxHD.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd03df5beda3db47bf0f2" group-title="Lifestyle",FashionBox HD (1080p)
+#EXTINF:-1 tvg-id="FashionBoxHD.us" ,FashionBox HD (1080p)
 https://fashionbox-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="HilandoFino.it" tvg-country="IT" tvg-language="" tvg-logo="" group-title="",Hilando Fino (1080p)
+#EXTINF:-1 tvg-id="HilandoFino.it" ,Hilando Fino (1080p)
 http://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png", 中天新聞 HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣", 東森新聞 HD
+#EXTINF:-1 tvg-id="6069" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png", 東森新聞 HD
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="RTHKGangTaiDianShi31.hk" tvg-country="HK" tvg-language="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="",RTHK (港台電視31) (1080p)
+#EXTINF:-1 tvg-id="RTHKGangTaiDianShi31.hk" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" ,RTHK (港台電視31) (1080p)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
-#EXTINF:-1 tvg-id="MiGu4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",咪咕4K [Offline]
+#EXTINF:-1 tvg-id="MiGu4K.cn",咪咕4K [Offline]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
 #EXTINF:-1 tvg-id="", 清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
