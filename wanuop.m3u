@@ -3,9 +3,9 @@
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="",4K频道自然风光
 http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
-#EXTINF:-1 tvg-id="Loupe4K.us" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" ,Loupe 4K (2160p)
+#EXTINF:-1 tvg-id="Loupe4K.us",Loupe 4K (2160p)
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/4KUHD.jpeg" group-title="中国卫视", 南国都市 4K
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/4KUHD.jpeg", 南国都市 4K
 https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
 #EXTINF:-1 tvg-id="ChunXiang4K.cn"  ,纯享4K (2160p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
