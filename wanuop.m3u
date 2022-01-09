@@ -5,7 +5,7 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="Loupe4K.us",Loupe 4K (2160p)
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/4KUHD.jpeg", 南国都市 4K
+#EXTINF:-1 tvg-id="Dummy", 南国都市 4K
 https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
 #EXTINF:-1 tvg-id="ChunXiang4K.cn"  ,纯享4K (2160p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
@@ -15,7 +15,7 @@ http://60.255.49.202/live/emdy4k_8000.m3u8
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="106",CCTV4K-HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K-4K
+#EXTINF:-1 tvg-id="106",CCTV4K-4K
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="1",CCTV1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
@@ -59,11 +59,11 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=10000000020
 http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="16",CCTV15音乐-HD-咪咕
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069
-#EXTINF:-1 tvg-id="7249" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16奥HD-1
+#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-1
 http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16奥HD-2
+#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-2
 http://59.49.72.48/live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16奥4K
+#EXTINF:-1 tvg-id="7249",CCTV-16奥4K
 http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="17",CCTV17HD
 http://117.135.56.6:6060/cms001/ch00000090990000001241/index.m3u8
