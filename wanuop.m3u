@@ -15,8 +15,14 @@ http://60.255.49.202/live/emdy4k_8000.m3u8
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="106",CCTV4K-HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="106",CCTV4K-4K
+#EXTINF:-1 tvg-id="106",CCTV4K-4K-1
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="106",CCTV4K-4K-2-延时
+http://ye23.win/iptv/4k.cctv.php
+#EXTINF:-1 tvg-id="106",CCTV4K-4K-3-延时
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1 tvg-id="1872",北京冬奥纪实8K
+http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-id="1",CCTV1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="2",CCTV2HD
@@ -63,6 +69,8 @@ http://117.135.56.6:6060/cms001/ch00000090990000001239/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="14",CCTV13新闻-HD-咪咕
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="14",CCTV13新闻-HD-3
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
 #EXTINF:-1 tvg-id="15",CCTV14少儿HD
 http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="16",CCTV15音乐-HD-咪咕
