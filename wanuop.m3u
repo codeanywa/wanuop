@@ -75,18 +75,18 @@ rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/1000010000000006000000000
 http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="16",CCTV15音乐-HD-咪咕
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069
-#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-1
-http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
-#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-2
-http://59.49.72.48/live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-3
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="7249",CCTV-16奥4K-1HDR
 http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="7249",CCTV-16奥4K-2HDR
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="7249",CCTV-16奥4K-3
 http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-1
+http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
+#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-2
+http://59.49.72.48/live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-id="7249",CCTV-16奥HD-3
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="17",CCTV17HD-1
 http://117.135.56.6:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 tvg-id="17",CCTV17HD-2
