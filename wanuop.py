@@ -70,8 +70,8 @@ for i in range(len(list0)):
     if list0[i]+"HD" in list0:
         #print(list0[i])
         pass
-    elif "年级" in list0[i]:
-        pass
+    #elif "年级" in list0[i]:
+    #    pass
     elif "直播室" in list0[i]:
         pass
     elif "购物" in list0[i]:
