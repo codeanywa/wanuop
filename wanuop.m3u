@@ -13,18 +13,18 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://60.255.49.202/live/emdy4k_8000.m3u8
 #EXTINF:-1, 5G购
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
+#EXTINF:-1, Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1, LoveNature4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="106", CCTV4K-HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 ,CCTV4K-4K-1
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 ,CCTV4K-4K-2-延时
 http://ye23.win/iptv/4k.cctv.php
-#EXTINF:-1 ,CCTV4K-4K-3-延时
-http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 ,CCTV4K-4K-4-延时
 https://p.ggiptv.com/v/4k.m3u8
-#EXTINF:-1 tvg-id="1872",北京冬奥纪实8K
-http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-id="1872",CCTV-8K-HD
 http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
 #EXTINF:-1 tvg-id="1",CCTV1HD
