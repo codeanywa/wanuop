@@ -8,6 +8,36 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="106", CCTV4K-HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1,tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="世界杯",CCTV5+ FHD 50FPS
+http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K HDR 50FPS
+http://27.36.62.163:9090/live/4005.m3u8
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&amp;IAS
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K 30FPS
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K HDR 50FPS
+http://27.36.62.163:9090/live/4010.m3u8
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 45M
+http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 50FPS
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS A
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS B
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&c=福建三明移动
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS C
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227162/index.m3u8
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS D
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="其他",咪咕4K
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1,tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉FHD 50FPS
+http://183.207.255.188/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="广东联通",CCTV 4K HDR
+http://27.36.62.163:9090/live/4005.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="广东联通",CCTV16 4K HDR
+http://27.36.62.163:9090/live/4010.m3u8
 
 #EXTINF:-1 tvg-id="1",CCTV1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
