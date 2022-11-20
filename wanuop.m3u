@@ -8,35 +8,35 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="106", CCTV4K-HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1,tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="世界杯",CCTV5+ FHD 50FPS
+#EXTINF:-1,tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="世界杯",CCTV5+_FHD_50FPS
 http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
-#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K HDR 50FPS
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K_HDR_50FPS
 http://27.36.62.163:9090/live/4005.m3u8
-#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K_IPV6
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&amp;IAS
-#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K 30FPS
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="世界杯",CCTV4K_30FPS_IPV6
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K HDR 50FPS
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16_4K_HDR_50FPS
 http://27.36.62.163:9090/live/4010.m3u8
-#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 45M
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16_4K_45M_IPV6
 http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 50FPS
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16_4K_50FPS_IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS A
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16_4K_25FPS_A_IPV6
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS B
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16_4K_25FPS_B_IPV6
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&c=福建三明移动
-#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS C
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16_4K_25FPS_C_IPV6
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227162/index.m3u8
-#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16 4K 25FPS D
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="世界杯",CCTV16_4K_25FPS_D_IPV6
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="其他",咪咕4K
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-#EXTINF:-1,tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉FHD 50FPS
+#EXTINF:-1,tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉FHD_50FPS
 http://183.207.255.188/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="广东联通",CCTV 4K HDR
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="广东联通",CCTV_4K_HDR
 http://27.36.62.163:9090/live/4005.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="广东联通",CCTV16 4K HDR
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="广东联通",CCTV16_4K_HDR
 http://27.36.62.163:9090/live/4010.m3u8
 
 #EXTINF:-1 tvg-id="1",CCTV1HD
@@ -94,8 +94,6 @@ http://117.135.56.6:6060/cms001/ch00000090990000001061/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001063/index.m3u8
 #EXTINF:-1 tvg-id="20",CGTN
 http://117.135.56.6:6060/cms001/ch00000090990000001058/index.m3u8
-#EXTINF:-1 tvg-id="6568",CCTV高尔夫网球
-http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 tvg-id="CNCZhongWen.cn",CNC中文 (720p)
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="6560",CCTV世界地理
@@ -308,8 +306,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 #EXTINF:-1 tvg-id="NewTVJingPinJiLu.cn"  ,NewTV精品纪录 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 tvg-id="NewTVJingPinDianYing.cn"  ,NewTV精品電影 (1080p)
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="NewTVChaoJiTiYu.cn"  ,NewTV超级体育 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="NewTVChaoJiDianYing.cn"  ,NewTV超级电影 (1080p)
@@ -325,12 +321,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="RiBenQuanTianXinWen.cn" tvg-logo="https://parco-zh.github.io/demo/riben24.png" ,日本全天新聞 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/eNPIQ9f.png",BBC News (720p) [Not 24/7]
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png", Bloomberg Business(720p)
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg Business TV+ UHD (2160p)
