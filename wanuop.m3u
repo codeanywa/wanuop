@@ -102,8 +102,8 @@ http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-id="1963",新视觉体育-HD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 
-#EXTINF:-1 tvg-id="1956",七彩戏剧
-http://117.135.56.6:6060/cms001/ch00000090990000001112/index.m3u8
+#EXTINF:-1 tvg-id="1956",七彩戏剧-HD
+http://117.135.56.6:6060/cms001/ch00000090990000001308/index.m3u8
 #EXTINF:-1 tvg-id="72",三沙卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001185/index.m3u8
 #EXTINF:-1 tvg-id="",上海教育HD
@@ -136,7 +136,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 tvg-id="52",内蒙古卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001068/index.m3u8
-#EXTINF:-1 tvg-id="",冬奥纪实HD
+#EXTINF:-1 tvg-id="",纪实科教HD
 http://117.135.56.6:6060/cms001/ch00000090990000001231/index.m3u8
 #EXTINF:-1 tvg-id="",一年级
 http://117.135.56.6:6060/cms001/ch00000090990000001207/index.m3u8
@@ -259,18 +259,20 @@ http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001129/index.m3u8
 #EXTINF:-1 tvg-id="",金色学堂HD
 http://117.135.56.6:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 tvg-id="69",金鹰卡通
-http://117.135.56.6:6060/cms001/ch00000090990000001098/index.m3u8
+#EXTINF:-1 tvg-id="69",金鹰卡通HD
+http://117.135.56.6:6060/cms001/ch00000090990000001460/index.m3u8
 #EXTINF:-1 tvg-id="2025",金鹰纪实HD
 http://117.135.56.6:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-id="55",陕西卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001067/index.m3u8
 #EXTINF:-1 tvg-id="",陶瓷HD
 http://117.135.56.6:6060/cms001/ch00000090990000001246/index.m3u8
-#EXTINF:-1 tvg-id="59",青海卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001082/index.m3u8
+#EXTINF:-1 tvg-id="59",青海卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001450/index.m3u8
 #EXTINF:-1 tvg-id="46",黑龙江卫视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001031/index.m3u8
+#EXTINF:-1 tvg-id="46",BesTVLiveHD
+http://117.135.56.6:6060/cms001/ch00000090990000001153/index.m3u8
 ;#EXTINF:-1 tvg-id="",淮安新闻综合
 ;http://cclive.aniu.tv/live/anzb.m3u8
 ;http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228132/index.m3u8
