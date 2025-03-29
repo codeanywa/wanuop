@@ -18,7 +18,6 @@ https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🚅  4K8K/16M(IPV6)",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-
 #EXTINF:-1 tvg-id="1",CCTV1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="2",CCTV2HD
@@ -27,9 +26,10 @@ http://117.135.56.6:6060/cms001/ch00000090990000001220/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001186/index.m3u8
 #EXTINF:-1 tvg-id="4",CCTV4HD
 http://117.135.56.6:6060/cms001/ch00000090990000001221/index.m3u8
-
 #EXTINF:-1 ,CCTV5+-HD-咪咕
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 ,CCTV5+
+http://39.134.65.141/PLTV/88888888/224/3221225507/Cf.m3u8
 #EXTINF:-1 tvg-id="5",CCTV5HD-1
 http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
 #EXTINF:-1 tvg-id="7",CCTV6HD-1
@@ -44,7 +44,6 @@ http://117.135.56.6:6060/cms001/ch00000090990000001237/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001238/index.m3u8
 #EXTINF:-1 tvg-id="12",CCTV11HD
 http://117.135.56.6:6060/cms001/ch00000090990000001309/index.m3u8
-
 #EXTINF:-1 ,CCTV11戏剧-HD-咪咕
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="13",CCTV12HD
@@ -63,6 +62,10 @@ http://117.135.56.6:6060/cms001/ch00000090990000001338/index.m3u8
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="7249",CCTV-16奥HD-1
 http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
+#EXTINF:-1 tvg-id="7249",CCTV-16奥4k-1
+http://117.135.56.6:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 tvg-id="7249",CCTV-16奥4k-2
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 ,CCTV-16奥HD-3
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="17",CCTV17HD-1
@@ -188,7 +191,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001191/index.m3u8
 #EXTINF:-1 tvg-id="1977",欢笑剧场HD
 http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-id="1977",欢笑剧场4k
-https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
+http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-id="29",江苏卫视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001033/index.m3u8
 #EXTINF:-1 tvg-id="50",江西卫视HD
