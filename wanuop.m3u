@@ -50,16 +50,10 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=10000000020
 http://117.135.56.6:6060/cms001/ch00000090990000001239/index.m3u8
 #EXTINF:-1 tvg-id="14",CCTV13HD
 http://117.135.56.6:6060/cms001/ch00000090990000001328/index.m3u8
-#EXTINF:-1 tvg-id="14",CCTV13新闻-HD1
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV13新闻-HD-咪咕
-http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="15",CCTV14少儿HD
 http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="16",CCTV15HD
 http://117.135.56.6:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1 tvg-id="16",CCTV15音乐-HD-咪咕
-http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="7249",CCTV-16奥HD-1
 http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="7249",CCTV-16奥4k-1
@@ -121,31 +115,6 @@ http://117.135.56.6:6060/cms001/ch00000090990000001066/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001068/index.m3u8
 #EXTINF:-1 tvg-id="",纪实科教HD
 http://117.135.56.6:6060/cms001/ch00000090990000001231/index.m3u8
-#EXTINF:-1 tvg-id="",一年级
-http://117.135.56.6:6060/cms001/ch00000090990000001207/index.m3u8
-#EXTINF:-1 tvg-id="",二年级
-http://117.135.56.6:6060/cms001/ch00000090990000001205/index.m3u8
-#EXTINF:-1 tvg-id="",三年级
-http://117.135.56.6:6060/cms001/ch00000090990000001206/index.m3u8
-#EXTINF:-1 tvg-id="",四年级
-http://117.135.56.6:6060/cms001/ch00000090990000001208/index.m3u8
-#EXTINF:-1 tvg-id="",五年级
-http://117.135.56.6:6060/cms001/ch00000090990000001209/index.m3u8
-#EXTINF:-1 tvg-id="",六年级
-http://117.135.56.6:6060/cms001/ch00000090990000001210/index.m3u8
-#EXTINF:-1 tvg-id="",七年级
-http://117.135.56.6:6060/cms001/ch00000090990000001211/index.m3u8
-#EXTINF:-1 tvg-id="",八年级
-http://117.135.56.6:6060/cms001/ch00000090990000001213/index.m3u8
-#EXTINF:-1 tvg-id="",九年级
-http://117.135.56.6:6060/cms001/ch00000090990000001214/index.m3u8
-#EXTINF:-1 tvg-id="",高一年级
-http://117.135.56.6:6060/cms001/ch00000090990000001215/index.m3u8
-#EXTINF:-1 tvg-id="",高二年级
-http://117.135.56.6:6060/cms001/ch00000090990000001216/index.m3u8
-#EXTINF:-1 tvg-id="",高三年级
-http://117.135.56.6:6060/cms001/ch00000090990000001217/index.m3u8
-
 #EXTINF:-1 tvg-id="",动漫秀场HD
 http://117.135.56.6:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-id="30",北京卫视HD
