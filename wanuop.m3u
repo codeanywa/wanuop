@@ -18,6 +18,30 @@ https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🚅  4K8K/16M(IPV6)",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 ,东方卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001641/index.m3u8
+#EXTINF:-1 ,江苏卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001700/index.m3u8
+#EXTINF:-1 ,浙江卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001720/index.m3u8
+#EXTINF:-1 ,北京卫视4k1
+http://117.135.56.6:6060/cms001/ch00000090990000001500/index.m3u8
+#EXTINF:-1 ,北京卫视4k2
+http://117.135.56.6:6060/cms001/ch00000090990000001510/index.m3u8
+#EXTINF:-1 ,深圳卫视4k1
+http://117.135.56.6:6060/cms001/ch00000090990000001560/index.m3u8
+#EXTINF:-1 ,深圳卫视4k2
+http://117.135.56.6:6060/cms001/ch00000090990000001521/index.m3u8
+#EXTINF:-1 ,广东卫视4k1
+http://117.135.56.6:6060/cms001/ch00000090990000001550/index.m3u8
+#EXTINF:-1 ,广东卫视4k2
+http://117.135.56.6:6060/cms001/ch00000090990000001540/index.m3u8
+#EXTINF:-1 ,山东卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001582/index.m3u8
+#EXTINF:-1 ,四川卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001690/index.m3u8
+#EXTINF:-1 ,湖南卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001710/index.m3u8
 #EXTINF:-1 tvg-id="1",CCTV1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="2",CCTV2HD
